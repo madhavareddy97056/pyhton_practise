@@ -22,6 +22,9 @@ b = False
 print(a)
 print(b)
 
+print(type(a))
+print(type(b))
+
 # List and printing list, mutable
 my_info = [Name, age, pincode, "klu", experience, v1, v2, v3, ["aws", "azure", "ibm", "Gcp"]]
 print(my_info)
