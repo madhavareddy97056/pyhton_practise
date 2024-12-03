@@ -1,0 +1,5 @@
+uname = input("Enter your UserName: ")
+passwd = input("Enter your Password: ")
+
+print(f"Hello {uname}! you have sucessfully loggedin")
+print(f"your password is {passwd}")
